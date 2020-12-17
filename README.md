@@ -29,7 +29,7 @@
 #### 🔭 Latest releases I've contributed to
 
 - [GeoGuess/Geoguess](https://github.com/GeoGuess/Geoguess) ([v0.3.1](https://github.com/GeoGuess/Geoguess/releases/tag/v0.3.1), 3 weeks ago) - GeoGuess is an open-source geography game with Google Map StreetView. You can play solo or with your friends simultaneously.
-- [CouscousPHP/Couscous](https://github.com/CouscousPHP/Couscous) ([1.8.0](https://github.com/CouscousPHP/Couscous/releases/tag/1.8.0), 2 months ago) - Couscous is good.
+- [CouscousPHP/Couscous](https://github.com/CouscousPHP/Couscous) ([1.8.0](https://github.com/CouscousPHP/Couscous/releases/tag/1.8.0), 3 months ago) - Couscous is good.
 - [BilelJegham/RepoRelease](https://github.com/BilelJegham/RepoRelease) ([beta3](https://github.com/BilelJegham/RepoRelease/releases/tag/beta3), 3 months ago) - 
 - [BilelJegham/ActionReleasePull](https://github.com/BilelJegham/ActionReleasePull) ([v0.0](https://github.com/BilelJegham/ActionReleasePull/releases/tag/v0.0), 3 months ago) - 
 - [BilelJegham/randomPositionInPolygon](https://github.com/BilelJegham/randomPositionInPolygon) ([v1.0.2](https://github.com/BilelJegham/randomPositionInPolygon/releases/tag/v1.0.2), 5 months ago) - Return random position inside geoJson Feature&lt;(Polygon|MultiPolygon)&gt;. (npm package) 
