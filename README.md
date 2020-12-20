@@ -33,7 +33,7 @@
 - [BilelJegham/RepoRelease](https://github.com/BilelJegham/RepoRelease) ([beta3](https://github.com/BilelJegham/RepoRelease/releases/tag/beta3), 3 months ago) - 
 - [BilelJegham/ActionReleasePull](https://github.com/BilelJegham/ActionReleasePull) ([v0.0](https://github.com/BilelJegham/ActionReleasePull/releases/tag/v0.0), 3 months ago) - 
 - [BilelJegham/randomPositionInPolygon](https://github.com/BilelJegham/randomPositionInPolygon) ([v1.0.2](https://github.com/BilelJegham/randomPositionInPolygon/releases/tag/v1.0.2), 5 months ago) - Return random position inside geoJson Feature&lt;(Polygon|MultiPolygon)&gt;. (npm package) 
-- [CouscousPHP/GitHub-Action](https://github.com/CouscousPHP/GitHub-Action) ([v1](https://github.com/CouscousPHP/GitHub-Action/releases/tag/v1), 7 months ago) - GitHub Action to generate websites with Couscous
+- [CouscousPHP/GitHub-Action](https://github.com/CouscousPHP/GitHub-Action) ([v1](https://github.com/CouscousPHP/GitHub-Action/releases/tag/v1), 8 months ago) - GitHub Action to generate websites with Couscous
 - [BilelJegham/action-couscous](https://github.com/BilelJegham/action-couscous) ([v0](https://github.com/BilelJegham/action-couscous/releases/tag/v0), 9 months ago) - 
 
 
