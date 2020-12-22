@@ -3,8 +3,8 @@
 #### 👷 Check out what I'm currently working on
 
 - [GeoGuess/Geoguess](https://github.com/GeoGuess/Geoguess) - GeoGuess is an open-source geography game with Google Map StreetView. You can play solo or with your friends simultaneously. (1 day ago)
-- [GeoGuess/GeoGuess-Maps](https://github.com/GeoGuess/GeoGuess-Maps) -  (1 day ago)
-- [GeoGuess/Geoguess-demo](https://github.com/GeoGuess/Geoguess-demo) -  (3 weeks ago)
+- [GeoGuess/GeoGuess-Maps](https://github.com/GeoGuess/GeoGuess-Maps) -  (2 days ago)
+- [GeoGuess/Geoguess-demo](https://github.com/GeoGuess/Geoguess-demo) -  (4 weeks ago)
 - [BilelJegham/Geoguessnowwwww](https://github.com/BilelJegham/Geoguessnowwwww) -  (1 month ago)
 - [GeoGuess/geoguess.games](https://github.com/GeoGuess/geoguess.games) - GeoGuess is an open-source geography game with Google Map StreetView. You can play solo or with your friends simultaneously. (1 month ago)
 - [BilelJegham/randomPositionInPolygon](https://github.com/BilelJegham/randomPositionInPolygon) - Return random position inside geoJson Feature&lt;(Polygon|MultiPolygon)&gt;. (npm package)  (1 month ago)
@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [GeoGuess/Geoguess](https://github.com/GeoGuess/Geoguess) ([v0.3.1](https://github.com/GeoGuess/Geoguess/releases/tag/v0.3.1), 3 weeks ago) - GeoGuess is an open-source geography game with Google Map StreetView. You can play solo or with your friends simultaneously.
+- [GeoGuess/Geoguess](https://github.com/GeoGuess/Geoguess) ([v0.3.1](https://github.com/GeoGuess/Geoguess/releases/tag/v0.3.1), 4 weeks ago) - GeoGuess is an open-source geography game with Google Map StreetView. You can play solo or with your friends simultaneously.
 - [CouscousPHP/Couscous](https://github.com/CouscousPHP/Couscous) ([1.8.0](https://github.com/CouscousPHP/Couscous/releases/tag/1.8.0), 3 months ago) - Couscous is good.
 - [BilelJegham/RepoRelease](https://github.com/BilelJegham/RepoRelease) ([beta3](https://github.com/BilelJegham/RepoRelease/releases/tag/beta3), 3 months ago) - 
 - [BilelJegham/ActionReleasePull](https://github.com/BilelJegham/ActionReleasePull) ([v0.0](https://github.com/BilelJegham/ActionReleasePull/releases/tag/v0.0), 3 months ago) - 
