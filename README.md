@@ -20,11 +20,11 @@
 - [BilelJegham/Geoguess](https://github.com/BilelJegham/Geoguess) - 
 - [BilelJegham/ActionReleasePull](https://github.com/BilelJegham/ActionReleasePull) - 
 - [BilelJegham/RepoRelease](https://github.com/BilelJegham/RepoRelease) - 
-- [BilelJegham/Geoguess-2-now](https://github.com/BilelJegham/Geoguess-2-now) - 
 - [BilelJegham/netlify-statuskit](https://github.com/BilelJegham/netlify-statuskit) - 
 - [BilelJegham/randomPositionInPolygon](https://github.com/BilelJegham/randomPositionInPolygon) - Return random position inside geoJson Feature&lt;(Polygon|MultiPolygon)&gt;. (npm package) 
 - [BilelJegham/epidemic-simulator-front](https://github.com/BilelJegham/epidemic-simulator-front) - WebApp to display Covid19 Simulation
 - [BilelJegham/action-couscous](https://github.com/BilelJegham/action-couscous) - 
+- [BilelJegham/hello-github-actions](https://github.com/BilelJegham/hello-github-actions) - 
 
 #### 🔭 Latest releases I've contributed to
 
