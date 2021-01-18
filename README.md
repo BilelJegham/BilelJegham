@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [GeoGuess/Geoguess](https://github.com/GeoGuess/Geoguess) - GeoGuess is an open-source geography game with Google Map StreetView. You can play solo or with your friends simultaneously. (5 days ago)
-- [GeoGuess/geoguess.games](https://github.com/GeoGuess/geoguess.games) - GeoGuess is an open-source geography game with Google Map StreetView. You can play solo or with your friends simultaneously. (6 days ago)
+- [GeoGuess/Geoguess](https://github.com/GeoGuess/Geoguess) - GeoGuess is an open-source geography game with Google Map StreetView. You can play solo or with your friends simultaneously. (1 day ago)
+- [GeoGuess/geoguess.games](https://github.com/GeoGuess/geoguess.games) - GeoGuess is an open-source geography game with Google Map StreetView. You can play solo or with your friends simultaneously. (1 week ago)
 - [GeoGuess/demo](https://github.com/GeoGuess/demo) -  (1 week ago)
 - [GeoGuess/GeoGuess-Maps](https://github.com/GeoGuess/GeoGuess-Maps) -  (4 weeks ago)
 - [BilelJegham/Geoguessnowwwww](https://github.com/BilelJegham/Geoguessnowwwww) -  (2 months ago)
