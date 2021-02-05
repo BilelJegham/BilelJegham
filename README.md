@@ -39,11 +39,11 @@
 
 #### 👯 Check out some of my recent followers
 
+- [edglaz](https://github.com/edglaz)
 - [wlanowski](https://github.com/wlanowski)
 - [saraogipraveen](https://github.com/saraogipraveen)
 - [0xb0b1](https://github.com/0xb0b1)
 - [tmOubelkacem](https://github.com/tmOubelkacem)
-- [aydodo](https://github.com/aydodo)
 
 
 #### 📫 How to reach me
