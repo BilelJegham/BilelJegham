@@ -5,7 +5,7 @@
 - [GeoGuess/Geoguess](https://github.com/GeoGuess/Geoguess) - GeoGuess is an open-source geography game with Google Map StreetView. You can play solo or with your friends simultaneously. (1 day ago)
 - [getferdi/recipes](https://github.com/getferdi/recipes) - 🍰 Recipes encapsulate your favourite apps into Ferdi for unified notifications handling and more (3 weeks ago)
 - [GeoGuess/GeoGuess-Maps](https://github.com/GeoGuess/GeoGuess-Maps) -  (3 weeks ago)
-- [GeoGuess/geoguess.games](https://github.com/GeoGuess/geoguess.games) - GeoGuess is an open-source geography game with Google Map StreetView. You can play solo or with your friends simultaneously. (4 weeks ago)
+- [GeoGuess/geoguess.games](https://github.com/GeoGuess/geoguess.games) - GeoGuess is an open-source geography game with Google Map StreetView. You can play solo or with your friends simultaneously. (1 month ago)
 - [GeoGuess/demo](https://github.com/GeoGuess/demo) -  (1 month ago)
 - [BilelJegham/Geoguessnowwwww](https://github.com/BilelJegham/Geoguessnowwwww) -  (1 month ago)
 - [BilelJegham/randomPositionInPolygon](https://github.com/BilelJegham/randomPositionInPolygon) - Return random position inside geoJson Feature&lt;(Polygon|MultiPolygon)&gt;. (npm package)  (1 month ago)
