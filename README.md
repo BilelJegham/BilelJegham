@@ -13,18 +13,6 @@
 - [BilelJegham/react-admin-geoguess](https://github.com/BilelJegham/react-admin-geoguess) - Admin Panel for https://geoguess.games (4 months ago)
 - [BilelJegham/RepoRelease](https://github.com/BilelJegham/RepoRelease) -  (6 months ago)
 
-#### 🌱 My latest projects
-
-- [BilelJegham/react-admin-geoguess](https://github.com/BilelJegham/react-admin-geoguess) - Admin Panel for https://geoguess.games
-- [BilelJegham/Geoguessnowwwww](https://github.com/BilelJegham/Geoguessnowwwww) - 
-- [BilelJegham/Geoguess](https://github.com/BilelJegham/Geoguess) - 
-- [BilelJegham/ActionReleasePull](https://github.com/BilelJegham/ActionReleasePull) - 
-- [BilelJegham/RepoRelease](https://github.com/BilelJegham/RepoRelease) - 
-- [BilelJegham/netlify-statuskit](https://github.com/BilelJegham/netlify-statuskit) - 
-- [BilelJegham/randomPositionInPolygon](https://github.com/BilelJegham/randomPositionInPolygon) - Return random position inside geoJson Feature&lt;(Polygon|MultiPolygon)&gt;. (npm package) 
-- [BilelJegham/epidemic-simulator-front](https://github.com/BilelJegham/epidemic-simulator-front) - WebApp to display Covid19 Simulation
-- [BilelJegham/action-couscous](https://github.com/BilelJegham/action-couscous) - 
-- [BilelJegham/hello-github-actions](https://github.com/BilelJegham/hello-github-actions) - 
 
 #### 🔭 Latest releases I've contributed to
 
@@ -33,21 +21,8 @@
 - [CouscousPHP/Couscous](https://github.com/CouscousPHP/Couscous) ([1.8.0](https://github.com/CouscousPHP/Couscous/releases/tag/1.8.0), 6 months ago) - Couscous is good.
 - [BilelJegham/RepoRelease](https://github.com/BilelJegham/RepoRelease) ([beta3](https://github.com/BilelJegham/RepoRelease/releases/tag/beta3), 6 months ago) - 
 - [BilelJegham/ActionReleasePull](https://github.com/BilelJegham/ActionReleasePull) ([v0.0](https://github.com/BilelJegham/ActionReleasePull/releases/tag/v0.0), 6 months ago) - 
-- [CouscousPHP/GitHub-Action](https://github.com/CouscousPHP/GitHub-Action) ([v1](https://github.com/CouscousPHP/GitHub-Action/releases/tag/v1), 10 months ago) - GitHub Action to generate websites with Couscous
-
-
-#### 👯 Check out some of my recent followers
-
-- [wlanowski](https://github.com/wlanowski)
-- [saraogipraveen](https://github.com/saraogipraveen)
-- [0xb0b1](https://github.com/0xb0b1)
-- [tmOubelkacem](https://github.com/tmOubelkacem)
-- [aydodo](https://github.com/aydodo)
-
 
 #### 📫 How to reach me
 
 - Twitter: https://twitter.com/BilelJegham
 - Linkedin: https://www.linkedin.com/in/bileljegham/
-
-Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
