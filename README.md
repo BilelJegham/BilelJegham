@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [GeoGuess/geoguess.games](https://github.com/GeoGuess/geoguess.games) - GeoGuess is an open-source geography game with Google Map StreetView. You can play solo or with your friends simultaneously. (1 day ago)
+- [GeoGuess/geoguess.games](https://github.com/GeoGuess/geoguess.games) - GeoGuess is an open-source geography game with Google Map StreetView. You can play solo or with your friends simultaneously. (2 days ago)
 - [GeoGuess/GeoGuess](https://github.com/GeoGuess/GeoGuess) - GeoGuess is an open-source geography game with Google Map StreetView. You can play solo or with your friends simultaneously. (1 month ago)
 - [tediagus/redmineChromeExention](https://github.com/tediagus/redmineChromeExention) - automation redmine imputation (3 months ago)
 - [GeoGuess/demo](https://github.com/GeoGuess/demo) -  (7 months ago)
