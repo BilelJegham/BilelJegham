@@ -6,7 +6,7 @@
 - [GeoGuess/GeoGuess-Maps](https://github.com/GeoGuess/GeoGuess-Maps) - List of community maps for GeoGuess. (1 month ago)
 - [tediagus/redmineChromeExention](https://github.com/tediagus/redmineChromeExention) - automation redmine imputation (1 month ago)
 - [ChouquetteCorp/beerbet](https://github.com/ChouquetteCorp/beerbet) - Experience a whole new way to enjoy your favorite matches with our sports betting site centered around fun and beers, without any money wagered. (2 months ago)
-- [BilelJegham/advent-code](https://github.com/BilelJegham/advent-code) - personnal code for https://adventofcode.com/ (4 months ago)
+- [ChouquetteCorp/chouquette-bet](https://github.com/ChouquetteCorp/chouquette-bet) - The first online betting app, with chouquettes (2 months ago)
 
 
 #### 📫 How to reach me
