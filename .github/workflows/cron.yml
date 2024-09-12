@@ -17,12 +17,11 @@ jobs:
     steps:
       - uses: actions/checkout@master
 
-      - uses: muesli/readme-scribe@master
+      - run: |
+          brew install muesli/tap/markscribe
+          markscribe -write templates/README.md.tpl README.md
         env:
           GITHUB_TOKEN: ${{ secrets.PERSONAL_GITHUB_TOKEN }}
-        with:
-          template: "templates/README.md.tpl"
-          writeTo: "README.md"
       
       - name: Update My Badges
         run: npx update-my-badges ${{github.repository_owner}}
