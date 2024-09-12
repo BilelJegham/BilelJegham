@@ -66,7 +66,7 @@
     "id": "fix-2",
     "tier": 1,
     "desc": "I did 2 sequential fixes.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/BilelJegham/BilelJegham/commit/8daee26829f076f9c74ffd1effdfdce388e7fd6a\">8daee26</a>: fix: cron lint\n- <a href=\"https://github.com/BilelJegham/BilelJegham/commit/bab2fd261ce039575af098498a0ec452f75eefcd\">bab2fd2</a>: fix: template",
+    "body": "Commits:\n\n- <a href=\"https://github.com/BilelJegham/jeh-maker/commit/d369dbc430e1880e1822301826396692cd29ce7d\">d369dbc</a>: fix: label\n- <a href=\"https://github.com/BilelJegham/jeh-maker/commit/ef8bd16e17a4ea10b319fb9da513fe97fd97f49d\">ef8bd16</a>: fix: linter",
     "image": "https://my-badges.github.io/my-badges/fix-2.png"
   },
   {
@@ -173,5 +173,12 @@
     "desc": "I commit at midnight.",
     "body": "Commits:\n\n- <a href=\"https://github.com/GeoGuess/demo/commit/5abb19075f46a0bca389595616428771c3bb279b\">5abb190</a>\n- <a href=\"https://github.com/GeoGuess/GeoGuess/commit/5abb19075f46a0bca389595616428771c3bb279b\">5abb190</a>\n- <a href=\"https://github.com/GeoGuess/demo/commit/5626ab40ad1be68873b5e7694741556d0e26b336\">5626ab4</a>\n- <a href=\"https://github.com/GeoGuess/GeoGuess/commit/5626ab40ad1be68873b5e7694741556d0e26b336\">5626ab4</a>\n- <a href=\"https://github.com/BilelJegham/dataviz-SNCF/commit/1daf12abff22ebd507e8289d1ab3646f2f049160\">1daf12a</a>",
     "image": "https://my-badges.github.io/my-badges/midnight-commits.png"
+  },
+  {
+    "id": "fix-4",
+    "tier": 3,
+    "desc": "I did 4 sequential fixes.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/BilelJegham/BilelJegham/commit/1dedce2cf236270b666fbedb9d33001bc332be94\">1dedce2</a>: fix: special char\n- <a href=\"https://github.com/BilelJegham/BilelJegham/commit/dd4861ad80baca4340f7ccbe10ae2180b2075377\">dd4861a</a>: fix: trigger\n- <a href=\"https://github.com/BilelJegham/BilelJegham/commit/8daee26829f076f9c74ffd1effdfdce388e7fd6a\">8daee26</a>: fix: cron lint\n- <a href=\"https://github.com/BilelJegham/BilelJegham/commit/bab2fd261ce039575af098498a0ec452f75eefcd\">bab2fd2</a>: fix: template",
+    "image": "https://my-badges.github.io/my-badges/fix-4.png"
   }
 ]
