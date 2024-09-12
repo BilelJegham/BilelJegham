@@ -1,0 +1,177 @@
+[
+  {
+    "id": "a-commit",
+    "tier": 1,
+    "desc": "One of my commit sha starts with \"a\".",
+    "body": "- <a href=\"https://github.com/tediagus/redmineChromeExention/commit/aa9d5b0c08788375d8ca1b75a64fb89f331e880f\"><strong>a</strong>a9d5b0c08788375d8ca1b75a64fb89f331e880f</a>",
+    "image": "https://my-badges.github.io/my-badges/a-commit.png"
+  },
+  {
+    "id": "ab-commit",
+    "tier": 2,
+    "desc": "One of my commit sha starts with \"ab\".",
+    "body": "- <a href=\"https://github.com/GeoGuess/GeoGuess/commit/ab1284fcd99cf0622ce5a72e96e16d36ff5b1956\"><strong>ab</strong>1284fcd99cf0622ce5a72e96e16d36ff5b1956</a>",
+    "image": "https://my-badges.github.io/my-badges/ab-commit.png"
+  },
+  {
+    "id": "cafe-commit",
+    "tier": 0,
+    "desc": "I pushed a commit with \"cafe\" 2 times.",
+    "body": "- <a href=\"https://github.com/GeoGuess/demo/commit/0494f9215f8763fe6cafe337dc240fa56c041ec8\">0494f9215f8763fe6<strong>cafe</strong>337dc240fa56c041ec8</a>\n- <a href=\"https://github.com/GeoGuess/GeoGuess/commit/0494f9215f8763fe6cafe337dc240fa56c041ec8\">0494f9215f8763fe6<strong>cafe</strong>337dc240fa56c041ec8</a>",
+    "image": "https://my-badges.github.io/my-badges/cafe-commit.png"
+  },
+  {
+    "id": "chore-commit",
+    "tier": 0,
+    "desc": "I did a little housekeeping! 🧹",
+    "body": "Commits:\n\n- <a href=\"https://github.com/BilelJegham/jeh-maker/commit/ff3d6212a985f7964b601255cb8c99748ac11154\">ff3d621</a>: chore: migrate to stroybook 6 + add dependabot",
+    "image": "https://my-badges.github.io/my-badges/chore-commit.png"
+  },
+  {
+    "id": "cosmetic-commit",
+    "tier": 0,
+    "desc": "I made cosmetic commit.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/BilelJegham/map-generator/commit/f02e0a67219183e4b625a8dd7b32b203c3e6eb4c\">f02e0a6</a>\n- <a href=\"https://github.com/GeoGuess/demo/commit/5141df0d2f3dd8fdfae4bb3f8a360129401da83d\">5141df0</a>\n- <a href=\"https://github.com/GeoGuess/GeoGuess/commit/5141df0d2f3dd8fdfae4bb3f8a360129401da83d\">5141df0</a>",
+    "image": "https://my-badges.github.io/my-badges/cosmetic-commit.png"
+  },
+  {
+    "id": "covid-19",
+    "tier": 0,
+    "desc": "I rolled before Covid-19: Survivor of the Great TP Shortage",
+    "body": "",
+    "image": "https://my-badges.github.io/my-badges/covid-19.png"
+  },
+  {
+    "id": "delorean",
+    "tier": 0,
+    "desc": "I committed on the day Doctor Emmett Brown invented the flux capacitor!",
+    "body": "Commits:\n\n- <a href=\"https://github.com/GeoGuess/demo/commit/0445fbc9caaf9f41e97f993117a82ed95197280f\">0445fbc</a>\n- <a href=\"https://github.com/GeoGuess/GeoGuess/commit/0445fbc9caaf9f41e97f993117a82ed95197280f\">0445fbc</a>\n- <a href=\"https://github.com/GeoGuess/demo/commit/ad48b2aa11b5baf64027d50bfffed1f5e3b88d86\">ad48b2a</a>\n- <a href=\"https://github.com/GeoGuess/GeoGuess/commit/ad48b2aa11b5baf64027d50bfffed1f5e3b88d86\">ad48b2a</a>\n- <a href=\"https://github.com/GeoGuess/demo/commit/0d38af0e615e2e5f3cdc991dd53759a558a8d79b\">0d38af0</a>\n- <a href=\"https://github.com/GeoGuess/GeoGuess/commit/0d38af0e615e2e5f3cdc991dd53759a558a8d79b\">0d38af0</a>",
+    "image": "https://my-badges.github.io/my-badges/delorean.png"
+  },
+  {
+    "id": "epic-commit",
+    "tier": 0,
+    "desc": "I made an epic commit with a message over 500 chars.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/GeoGuess/demo/commit/e32293dd20dea878340b47af1df7e74991158e0b\">e32293d</a>\n- <a href=\"https://github.com/GeoGuess/demo/commit/99724dbc9c2de0b848f80c51ee1d8c518f4fa356\">99724db</a>\n- <a href=\"https://github.com/GeoGuess/demo/commit/d7c0dd0d9b4d3c20b0ad34d70674447c9ed453b0\">d7c0dd0</a>\n- <a href=\"https://github.com/GeoGuess/demo/commit/d255518a7ea739885e913284ad04fc4b2d65fdad\">d255518</a>\n- <a href=\"https://github.com/GeoGuess/demo/commit/74441f1a2256011b45cb065cf4f4faae2bafe16b\">74441f1</a>\n- <a href=\"https://github.com/GeoGuess/demo/commit/a614e438d5f55bc51b2a3a82f36c8881bfac9643\">a614e43</a>\n- <a href=\"https://github.com/GeoGuess/demo/commit/397ccd635aebdd71c02833e6345c3e5e7f655a73\">397ccd6</a>\n- <a href=\"https://github.com/GeoGuess/demo/commit/783e58c52f28fe1d598fc6b24221f812cdff3528\">783e58c</a>\n- <a href=\"https://github.com/GeoGuess/demo/commit/fe17ff3d78b06e820f6cab6cc658ae6e80e673cb\">fe17ff3</a>\n- <a href=\"https://github.com/GeoGuess/demo/commit/e7363226178ffe1e544ef34685b2a279542ac24c\">e736322</a>\n- <a href=\"https://github.com/GeoGuess/GeoGuess/commit/7ae34f186eeed50959b9af6eaebb86a44d7a36c5\">7ae34f1</a>\n- <a href=\"https://github.com/GeoGuess/GeoGuess/commit/bed0623db5dd2b0f6873daf79e7f83a9829276c3\">bed0623</a>\n- <a href=\"https://github.com/GeoGuess/GeoGuess/commit/5a6d49cf795d8dc8c61b68cf13514e9b81ae6b83\">5a6d49c</a>\n- <a href=\"https://github.com/GeoGuess/GeoGuess/commit/e147db1d8072d1dc148ad734258d0702233c06f2\">e147db1</a>\n- <a href=\"https://github.com/GeoGuess/GeoGuess/commit/361a29ce09c8150b8efb0c29e05f9203f1ff0f5f\">361a29c</a>\n- <a href=\"https://github.com/GeoGuess/GeoGuess/commit/e32293dd20dea878340b47af1df7e74991158e0b\">e32293d</a>\n- <a href=\"https://github.com/GeoGuess/GeoGuess/commit/99724dbc9c2de0b848f80c51ee1d8c518f4fa356\">99724db</a>\n- <a href=\"https://github.com/GeoGuess/GeoGuess/commit/d7c0dd0d9b4d3c20b0ad34d70674447c9ed453b0\">d7c0dd0</a>\n- <a href=\"https://github.com/GeoGuess/GeoGuess/commit/d255518a7ea739885e913284ad04fc4b2d65fdad\">d255518</a>\n- <a href=\"https://github.com/GeoGuess/GeoGuess/commit/74441f1a2256011b45cb065cf4f4faae2bafe16b\">74441f1</a>\n- <a href=\"https://github.com/GeoGuess/GeoGuess/commit/a614e438d5f55bc51b2a3a82f36c8881bfac9643\">a614e43</a>\n- <a href=\"https://github.com/GeoGuess/GeoGuess/commit/397ccd635aebdd71c02833e6345c3e5e7f655a73\">397ccd6</a>\n- <a href=\"https://github.com/GeoGuess/GeoGuess/commit/783e58c52f28fe1d598fc6b24221f812cdff3528\">783e58c</a>\n- <a href=\"https://github.com/GeoGuess/GeoGuess/commit/fe17ff3d78b06e820f6cab6cc658ae6e80e673cb\">fe17ff3</a>\n- <a href=\"https://github.com/GeoGuess/GeoGuess/commit/e7363226178ffe1e544ef34685b2a279542ac24c\">e736322</a>",
+    "image": "https://my-badges.github.io/my-badges/epic-commit.png"
+  },
+  {
+    "id": "favorite-word",
+    "tier": 0,
+    "desc": "My favorite word is \"[ci\".",
+    "body": "My favorite commit message words are:\n\n1. [ci (used 1556 times)\n2. skip] (used 1556 times)\n3. new (used 1421 times)\n4. en.json (used 1369 times)\n5. translations (used 1287 times)",
+    "image": "https://my-badges.github.io/my-badges/favorite-word.png"
+  },
+  {
+    "id": "fix-2",
+    "tier": 1,
+    "desc": "I did 2 sequential fixes.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/BilelJegham/jeh-maker/commit/d369dbc430e1880e1822301826396692cd29ce7d\">d369dbc</a>: fix: label\n- <a href=\"https://github.com/BilelJegham/jeh-maker/commit/ef8bd16e17a4ea10b319fb9da513fe97fd97f49d\">ef8bd16</a>: fix: linter",
+    "image": "https://my-badges.github.io/my-badges/fix-2.png"
+  },
+  {
+    "id": "fix-3",
+    "tier": 2,
+    "desc": "I did 3 sequential fixes.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/BilelJegham/jeh-maker/commit/2b7793846cb9cfdcd9c0cf9efe83597ca9b4d74b\">2b77938</a>: Fix Ci :coverage + linter\n- <a href=\"https://github.com/BilelJegham/jeh-maker/commit/82deeb709e43cdb13eee371d8d09c3eb44f31038\">82deeb7</a>: Fix Ci :coverage + linter\n- <a href=\"https://github.com/BilelJegham/jeh-maker/commit/6f9e437f5b17b4adca721474dafcf1e3aff2c8d3\">6f9e437</a>: Fix CodeCov Env car",
+    "image": "https://my-badges.github.io/my-badges/fix-3.png"
+  },
+  {
+    "id": "github-anniversary-5",
+    "tier": 0,
+    "desc": "I joined GitHub 5 years ago.",
+    "body": "",
+    "image": "https://my-badges.github.io/my-badges/github-anniversary-5.png"
+  },
+  {
+    "id": "mass-delete-commit",
+    "tier": 1,
+    "desc": "When I delete code, I delete a lot.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/GeoGuess/demo/commit/bf31b2d6b129e5a37e6ad0b849bd185ced950fb0\">bf31b2d</a>",
+    "image": "https://my-badges.github.io/my-badges/mass-delete-commit.png"
+  },
+  {
+    "id": "mass-delete-commit-10k",
+    "tier": 2,
+    "desc": "When I delete code, I delete a lot.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/GeoGuess/demo/commit/9f04b7fc4e0eb63d1dd57b611e5ce7d54ce95914\">9f04b7f</a>",
+    "image": "https://my-badges.github.io/my-badges/mass-delete-commit-10k.png"
+  },
+  {
+    "id": "old-issue-1",
+    "tier": 1,
+    "desc": "I closed an issue that was open for a year",
+    "body": "Issues:\n\n- <a href=\"https://github.com/GeoGuess/GeoGuess/issues/53\">#53</a>: Improve homepage : image quality, animation, fonts, colors, etc.",
+    "image": "https://my-badges.github.io/my-badges/old-issue-1.png"
+  },
+  {
+    "id": "old-issue-2",
+    "tier": 2,
+    "desc": "I closed an issue that was open for 2 years",
+    "body": "Issues:\n\n- <a href=\"https://github.com/GeoGuess/GeoGuess/issues/308\">#308</a>: [PERF] Firebase 9",
+    "image": "https://my-badges.github.io/my-badges/old-issue-2.png"
+  },
+  {
+    "id": "polite-coder",
+    "tier": 0,
+    "desc": "I am a polite coder.",
+    "body": "I use words like \"thanks\" and \"please\" in my issues:\n\n- <a href=\"https://github.com/ChouquetteCorp/beerbet/issues/12\">#12</a>: [FEAT] Link to ChouquetteBet, BeerBet\n- <a href=\"https://github.com/GeoGuess/GeoGuess/issues/80\">#80</a>: Discord Bug Report: Time Attack \"next round\" as the same round\n- <a href=\"https://github.com/GeoGuess/GeoGuess/issues/154\">#154</a>: [FEAT] Add timer \"seconds lapsed\" \n- <a href=\"https://github.com/GeoGuess/GeoGuess/issues/188\">#188</a>: [FEAT] New modes like country mode (states mode, continent mode, ...)\n- <a href=\"https://github.com/dilame/instagram-private-api/issues/1514\">#1514</a>: Sticker Quiz don't work on desktop www.instagram.com\n\n And many more...",
+    "image": "https://my-badges.github.io/my-badges/polite-coder.png"
+  },
+  {
+    "id": "pr-collaboration-5",
+    "tier": 1,
+    "desc": "I have participated in pull requests with 5 or more people",
+    "body": "Pull requests:\n\n- <a href=\"https://github.com/joernahlers/Geoguess/pull/1\">#1</a>: Hello 👋",
+    "image": "https://my-badges.github.io/my-badges/pr-collaboration-5.png"
+  },
+  {
+    "id": "public-keys-4",
+    "tier": 4,
+    "desc": "I have four public keys",
+    "body": "",
+    "image": "https://my-badges.github.io/my-badges/public-keys-4.png"
+  },
+  {
+    "id": "stars-100",
+    "tier": 1,
+    "desc": "I collected 100 stars.",
+    "body": "Repos:\n\n* <a href=\"https://github.com/GeoGuess/GeoGuess\">GeoGuess/GeoGuess: ★393</a>\n* <a href=\"https://github.com/RemDelaporteMathurin/epidemic-simulator\">RemDelaporteMathurin/epidemic-simulator: ★31</a>\n* <a href=\"https://github.com/CouscousPHP/GitHub-Action\">CouscousPHP/GitHub-Action: ★11</a>\n* <a href=\"https://github.com/BilelJegham/epidemic-simulator-front\">BilelJegham/epidemic-simulator-front: ★4</a>\n* <a href=\"https://github.com/BilelJegham/randomPositionInPolygon\">BilelJegham/randomPositionInPolygon: ★3</a>\n* <a href=\"https://github.com/BilelJegham/BilelJegham\">BilelJegham/BilelJegham: ★2</a>\n* <a href=\"https://github.com/BilelJegham/metamorphe\">BilelJegham/metamorphe: ★1</a>\n* <a href=\"https://github.com/BilelJegham/action-couscous\">BilelJegham/action-couscous: ★1</a>\n\n<sup>I have push, maintainer or admin permissions, so I'm definitely an author.<sup>\n",
+    "image": "https://my-badges.github.io/my-badges/stars-100.png"
+  },
+  {
+    "id": "the-ultimate-question",
+    "tier": 0,
+    "desc": "I found the answer to the ultimate question of life, the universe, and everything!",
+    "body": "- <a href=\"https://github.com/GeoGuess/GeoGuess-Maps/issues/42\">#42</a>",
+    "image": "https://my-badges.github.io/my-badges/the-ultimate-question.png"
+  },
+  {
+    "id": "this-is-fine",
+    "tier": 0,
+    "desc": "I merged a PR with failing checks",
+    "body": "Pull requests:\n\n- <a href=\"https://github.com/GeoGuess/GeoGuess-Maps/pull/39\">#39</a>: fix: add image src cover\n- <a href=\"https://github.com/GeoGuess/GeoGuess-Maps/pull/40\">#40</a>: New Crowdin updates\n- <a href=\"https://github.com/GeoGuess/GeoGuess-Maps/pull/41\">#41</a>: New Crowdin updates\n- <a href=\"https://github.com/GeoGuess/GeoGuess-Maps/pull/42\">#42</a>: feat: add map\n- <a href=\"https://github.com/GeoGuess/GeoGuess-Maps/pull/43\">#43</a>: New Crowdin updates\n- <a href=\"https://github.com/GeoGuess/GeoGuess-Maps/pull/44\">#44</a>: New Crowdin updates",
+    "image": "https://my-badges.github.io/my-badges/this-is-fine.png"
+  },
+  {
+    "id": "sleepy-coder",
+    "tier": 0,
+    "desc": "I am a sleepy coder.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/GeoGuess/demo/commit/6711bda4dfe036287e6ed29c95a73a3e90109fdc\">6711bda</a>\n- <a href=\"https://github.com/GeoGuess/GeoGuess/commit/6711bda4dfe036287e6ed29c95a73a3e90109fdc\">6711bda</a>\n- <a href=\"https://github.com/GeoGuess/demo/commit/a531796955f101cff97bea97af78aeca9530917d\">a531796</a>\n- <a href=\"https://github.com/GeoGuess/GeoGuess/commit/a531796955f101cff97bea97af78aeca9530917d\">a531796</a>",
+    "image": "https://my-badges.github.io/my-badges/sleepy-coder.png"
+  },
+  {
+    "id": "evening-commits",
+    "tier": 0,
+    "desc": "I commit in the evening.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/GeoGuess/GeoGuess/commit/54ad3784158992f56e01a54ef19a22e1bea9f7ab\">54ad378</a>\n- <a href=\"https://github.com/GeoGuess/demo/commit/20a3866f6b09b70e7b55114d69fe6ab50c0ef0ea\">20a3866</a>\n- <a href=\"https://github.com/GeoGuess/GeoGuess/commit/bebc158938d6d4adff322d4c9677107ebcc0ef99\">bebc158</a>\n- <a href=\"https://github.com/GeoGuess/GeoGuess/commit/9a8b8c468450963b288131bd9066816be8d087a5\">9a8b8c4</a>\n- <a href=\"https://github.com/GeoGuess/GeoGuess/commit/7ae34f186eeed50959b9af6eaebb86a44d7a36c5\">7ae34f1</a>\n- <a href=\"https://github.com/GeoGuess/GeoGuess/commit/c13ed3332e694c7fe217747fdff0f91040a98720\">c13ed33</a>",
+    "image": "https://my-badges.github.io/my-badges/evening-commits.png"
+  },
+  {
+    "id": "midnight-commits",
+    "tier": 0,
+    "desc": "I commit at midnight.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/GeoGuess/demo/commit/5abb19075f46a0bca389595616428771c3bb279b\">5abb190</a>\n- <a href=\"https://github.com/GeoGuess/GeoGuess/commit/5abb19075f46a0bca389595616428771c3bb279b\">5abb190</a>\n- <a href=\"https://github.com/GeoGuess/demo/commit/5626ab40ad1be68873b5e7694741556d0e26b336\">5626ab4</a>\n- <a href=\"https://github.com/GeoGuess/GeoGuess/commit/5626ab40ad1be68873b5e7694741556d0e26b336\">5626ab4</a>\n- <a href=\"https://github.com/BilelJegham/dataviz-SNCF/commit/1daf12abff22ebd507e8289d1ab3646f2f049160\">1daf12a</a>",
+    "image": "https://my-badges.github.io/my-badges/midnight-commits.png"
+  }
+]
