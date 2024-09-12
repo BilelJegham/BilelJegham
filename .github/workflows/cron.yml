@@ -26,11 +26,11 @@ jobs:
       
       - name: Update My Badges
         run: |
-        echo "<details>" >> README.md
-        echo "<summary>🏆 Badges</summary>" >> README.md
-        echo "<!-- my-badges start -->" >> README.md
-        echo "<!-- my-badges end -->" >> README.md
-        echo "</details>" >> README.md
+          echo "<details>" >> README.md
+          echo "<summary>🏆 Badges</summary>" >> README.md
+          echo "<!-- my-badges start -->" >> README.md
+          echo "<!-- my-badges end -->" >> README.md
+          echo "</details>" >> README.md
           npx update-my-badges ${{github.repository_owner}}
         env:
           GITHUB_TOKEN: ${{ secrets.PERSONAL_GITHUB_TOKEN }}
