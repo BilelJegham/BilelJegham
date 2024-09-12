@@ -4,8 +4,8 @@
 
 Commits:
 
-- <a href="https://github.com/BilelJegham/jeh-maker/commit/d369dbc430e1880e1822301826396692cd29ce7d">d369dbc</a>: fix: label
-- <a href="https://github.com/BilelJegham/jeh-maker/commit/ef8bd16e17a4ea10b319fb9da513fe97fd97f49d">ef8bd16</a>: fix: linter
+- <a href="https://github.com/BilelJegham/BilelJegham/commit/8daee26829f076f9c74ffd1effdfdce388e7fd6a">8daee26</a>: fix: cron lint
+- <a href="https://github.com/BilelJegham/BilelJegham/commit/bab2fd261ce039575af098498a0ec452f75eefcd">bab2fd2</a>: fix: template
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
