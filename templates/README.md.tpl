@@ -10,3 +10,9 @@
 
 - Twitter: https://twitter.com/BilelJegham
 - Linkedin: https://www.linkedin.com/in/bileljegham/
+
+<details>
+<summary>🏆 Badges</summary>
+<!-- my-badges start -->
+<!-- my-badges end -->
+</details>
