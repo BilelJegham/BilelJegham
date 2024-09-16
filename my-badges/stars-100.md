@@ -4,11 +4,11 @@
 
 Repos:
 
-* <a href="https://github.com/GeoGuess/GeoGuess">GeoGuess/GeoGuess: ★395</a>
+* <a href="https://github.com/GeoGuess/GeoGuess">GeoGuess/GeoGuess: ★396</a>
 * <a href="https://github.com/RemDelaporteMathurin/epidemic-simulator">RemDelaporteMathurin/epidemic-simulator: ★31</a>
 * <a href="https://github.com/CouscousPHP/GitHub-Action">CouscousPHP/GitHub-Action: ★11</a>
+* <a href="https://github.com/BilelJegham/randomPositionInPolygon">BilelJegham/randomPositionInPolygon: ★4</a>
 * <a href="https://github.com/BilelJegham/epidemic-simulator-front">BilelJegham/epidemic-simulator-front: ★4</a>
-* <a href="https://github.com/BilelJegham/randomPositionInPolygon">BilelJegham/randomPositionInPolygon: ★3</a>
 * <a href="https://github.com/BilelJegham/BilelJegham">BilelJegham/BilelJegham: ★2</a>
 * <a href="https://github.com/BilelJegham/metamorphe">BilelJegham/metamorphe: ★1</a>
 * <a href="https://github.com/BilelJegham/action-couscous">BilelJegham/action-couscous: ★1</a>
