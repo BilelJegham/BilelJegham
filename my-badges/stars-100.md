@@ -11,6 +11,7 @@ Repos:
 * <a href="https://github.com/BilelJegham/epidemic-simulator-front">BilelJegham/epidemic-simulator-front: ★4</a>
 * <a href="https://github.com/BilelJegham/BilelJegham">BilelJegham/BilelJegham: ★2</a>
 * <a href="https://github.com/BilelJegham/metamorphe">BilelJegham/metamorphe: ★1</a>
+* <a href="https://github.com/BilelJegham/api-sport-cli">BilelJegham/api-sport-cli: ★1</a>
 * <a href="https://github.com/BilelJegham/action-couscous">BilelJegham/action-couscous: ★1</a>
 
 <sup>I have push, maintainer or admin permissions, so I'm definitely an author.<sup>
