@@ -4,7 +4,6 @@
 
 Pull requests:
 
-- <a href="https://github.com/GeoGuess/GeoGuess-Maps/pull/39">#39</a>: fix: add image src cover
 - <a href="https://github.com/GeoGuess/GeoGuess-Maps/pull/40">#40</a>: New Crowdin updates
 - <a href="https://github.com/GeoGuess/GeoGuess-Maps/pull/41">#41</a>: New Crowdin updates
 - <a href="https://github.com/GeoGuess/GeoGuess-Maps/pull/42">#42</a>: feat: add map
