@@ -4,7 +4,7 @@
 
 Repos:
 
-* <a href="https://github.com/GeoGuess/GeoGuess">GeoGuess/GeoGuess: ★400</a>
+* <a href="https://github.com/GeoGuess/GeoGuess">GeoGuess/GeoGuess: ★402</a>
 * <a href="https://github.com/RemDelaporteMathurin/epidemic-simulator">RemDelaporteMathurin/epidemic-simulator: ★31</a>
 * <a href="https://github.com/CouscousPHP/GitHub-Action">CouscousPHP/GitHub-Action: ★11</a>
 * <a href="https://github.com/BilelJegham/randomPositionInPolygon">BilelJegham/randomPositionInPolygon: ★4</a>
