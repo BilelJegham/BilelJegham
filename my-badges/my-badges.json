@@ -180,5 +180,12 @@
     "desc": "I did 4 sequential fixes.",
     "body": "Commits:\n\n- <a href=\"https://github.com/BilelJegham/BilelJegham/commit/1dedce2cf236270b666fbedb9d33001bc332be94\">1dedce2</a>: fix: special char\n- <a href=\"https://github.com/BilelJegham/BilelJegham/commit/dd4861ad80baca4340f7ccbe10ae2180b2075377\">dd4861a</a>: fix: trigger\n- <a href=\"https://github.com/BilelJegham/BilelJegham/commit/8daee26829f076f9c74ffd1effdfdce388e7fd6a\">8daee26</a>: fix: cron lint\n- <a href=\"https://github.com/BilelJegham/BilelJegham/commit/bab2fd261ce039575af098498a0ec452f75eefcd\">bab2fd2</a>: fix: template",
     "image": "https://my-badges.github.io/my-badges/fix-4.png"
+  },
+  {
+    "id": "public-keys-3",
+    "tier": 3,
+    "desc": "I have three public keys",
+    "body": "",
+    "image": "https://my-badges.github.io/my-badges/public-keys-3.png"
   }
 ]
