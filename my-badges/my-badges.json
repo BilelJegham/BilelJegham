@@ -194,5 +194,12 @@
     "desc": "I have two public keys",
     "body": "",
     "image": "https://my-badges.github.io/my-badges/public-keys-2.png"
+  },
+  {
+    "id": "spooky-commit",
+    "tier": 0,
+    "desc": "I committed on the Halloween! Boo!",
+    "body": "Commits:\n\n- <a href=\"https://github.com/GeoGuess/demo/commit/cee76759cb46723e86630947d379c6d05abf59b7\">cee7675</a>",
+    "image": "https://my-badges.github.io/my-badges/spooky-commit.png"
   }
 ]
