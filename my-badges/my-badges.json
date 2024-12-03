@@ -3,7 +3,7 @@
     "id": "a-commit",
     "tier": 1,
     "desc": "One of my commit sha starts with \"a\".",
-    "body": "- <a href=\"https://github.com/tediagus/redmineChromeExention/commit/aa9d5b0c08788375d8ca1b75a64fb89f331e880f\"><strong>a</strong>a9d5b0c08788375d8ca1b75a64fb89f331e880f</a>",
+    "body": "- <a href=\"https://github.com/BilelJegham/Gitlab-CI/commit/a351e65099a54963186dbadf4c0119cd7d9f2ed4\"><strong>a</strong>351e65099a54963186dbadf4c0119cd7d9f2ed4</a>",
     "image": "https://my-badges.github.io/my-badges/a-commit.png"
   },
   {
@@ -98,20 +98,6 @@
     "image": "https://my-badges.github.io/my-badges/mass-delete-commit-10k.png"
   },
   {
-    "id": "old-issue-1",
-    "tier": 1,
-    "desc": "I closed an issue that was open for a year",
-    "body": "Issues:\n\n- <a href=\"https://github.com/GeoGuess/GeoGuess/issues/53\">#53</a>: Improve homepage : image quality, animation, fonts, colors, etc.",
-    "image": "https://my-badges.github.io/my-badges/old-issue-1.png"
-  },
-  {
-    "id": "old-issue-2",
-    "tier": 2,
-    "desc": "I closed an issue that was open for 2 years",
-    "body": "Issues:\n\n- <a href=\"https://github.com/GeoGuess/GeoGuess/issues/308\">#308</a>: [PERF] Firebase 9",
-    "image": "https://my-badges.github.io/my-badges/old-issue-2.png"
-  },
-  {
     "id": "polite-coder",
     "tier": 0,
     "desc": "I am a polite coder.",
@@ -126,17 +112,10 @@
     "image": "https://my-badges.github.io/my-badges/pr-collaboration-5.png"
   },
   {
-    "id": "public-keys-4",
-    "tier": 4,
-    "desc": "I have four public keys",
-    "body": "",
-    "image": "https://my-badges.github.io/my-badges/public-keys-4.png"
-  },
-  {
     "id": "stars-100",
     "tier": 1,
     "desc": "I collected 100 stars.",
-    "body": "Repos:\n\n* <a href=\"https://github.com/GeoGuess/GeoGuess\">GeoGuess/GeoGuess: ★413</a>\n* <a href=\"https://github.com/RemDelaporteMathurin/epidemic-simulator\">RemDelaporteMathurin/epidemic-simulator: ★31</a>\n* <a href=\"https://github.com/CouscousPHP/GitHub-Action\">CouscousPHP/GitHub-Action: ★11</a>\n* <a href=\"https://github.com/BilelJegham/randomPositionInPolygon\">BilelJegham/randomPositionInPolygon: ★4</a>\n* <a href=\"https://github.com/BilelJegham/epidemic-simulator-front\">BilelJegham/epidemic-simulator-front: ★4</a>\n* <a href=\"https://github.com/BilelJegham/BilelJegham\">BilelJegham/BilelJegham: ★2</a>\n* <a href=\"https://github.com/BilelJegham/metamorphe\">BilelJegham/metamorphe: ★1</a>\n* <a href=\"https://github.com/BilelJegham/api-sport-cli\">BilelJegham/api-sport-cli: ★1</a>\n* <a href=\"https://github.com/BilelJegham/action-couscous\">BilelJegham/action-couscous: ★1</a>\n\n<sup>I have push, maintainer or admin permissions, so I'm definitely an author.<sup>\n",
+    "body": "Repos:\n\n* <a href=\"https://github.com/GeoGuess/GeoGuess\">GeoGuess/GeoGuess: ★413</a>\n* <a href=\"https://github.com/RemDelaporteMathurin/epidemic-simulator\">RemDelaporteMathurin/epidemic-simulator: ★31</a>\n* <a href=\"https://github.com/CouscousPHP/GitHub-Action\">CouscousPHP/GitHub-Action: ★11</a>\n* <a href=\"https://github.com/BilelJegham/epidemic-simulator-front\">BilelJegham/epidemic-simulator-front: ★4</a>\n* <a href=\"https://github.com/BilelJegham/randomPositionInPolygon\">BilelJegham/randomPositionInPolygon: ★4</a>\n* <a href=\"https://github.com/simonrousseau/24hCode2018\">simonrousseau/24hCode2018: ★3</a>\n* <a href=\"https://github.com/BilelJegham/ProjectSport\">BilelJegham/ProjectSport: ★2</a>\n* <a href=\"https://github.com/BilelJegham/Prowedge\">BilelJegham/Prowedge: ★2</a>\n* <a href=\"https://github.com/BilelJegham/BilelJegham\">BilelJegham/BilelJegham: ★2</a>\n* <a href=\"https://github.com/simonrousseau/GoogleHashCode2018\">simonrousseau/GoogleHashCode2018: ★1</a>\n* <a href=\"https://github.com/simonrousseau/directetude\">simonrousseau/directetude: ★1</a>\n* <a href=\"https://github.com/BilelJegham/action-couscous\">BilelJegham/action-couscous: ★1</a>\n* <a href=\"https://github.com/BilelJegham/api-sport-cli\">BilelJegham/api-sport-cli: ★1</a>\n* <a href=\"https://github.com/BilelJegham/metamorphe\">BilelJegham/metamorphe: ★1</a>\n\n<sup>I have push, maintainer or admin permissions, so I'm definitely an author.<sup>\n",
     "image": "https://my-badges.github.io/my-badges/stars-100.png"
   },
   {
@@ -182,13 +161,6 @@
     "image": "https://my-badges.github.io/my-badges/fix-4.png"
   },
   {
-    "id": "public-keys-3",
-    "tier": 3,
-    "desc": "I have three public keys",
-    "body": "",
-    "image": "https://my-badges.github.io/my-badges/public-keys-3.png"
-  },
-  {
     "id": "public-keys-2",
     "tier": 2,
     "desc": "I have two public keys",
@@ -201,5 +173,12 @@
     "desc": "I committed on the Halloween! Boo!",
     "body": "Commits:\n\n- <a href=\"https://github.com/GeoGuess/demo/commit/cee76759cb46723e86630947d379c6d05abf59b7\">cee7675</a>",
     "image": "https://my-badges.github.io/my-badges/spooky-commit.png"
+  },
+  {
+    "id": "self-star",
+    "tier": 0,
+    "desc": "I've starred 4 my own repositories.",
+    "body": "- <a href=\"https://github.com/BilelJegham/action-couscous\">BilelJegham/action-couscous</a>\n- <a href=\"https://github.com/BilelJegham/metamorphe\">BilelJegham/metamorphe</a>\n- <a href=\"https://github.com/BilelJegham/randomPositionInPolygon\">BilelJegham/randomPositionInPolygon</a>\n- <a href=\"https://github.com/BilelJegham/api-sport-cli\">BilelJegham/api-sport-cli</a>",
+    "image": "https://my-badges.github.io/my-badges/self-star.png"
   }
 ]
