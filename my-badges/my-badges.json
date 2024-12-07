@@ -58,8 +58,8 @@
   {
     "id": "favorite-word",
     "tier": 0,
-    "desc": "My favorite word is \"*\".",
-    "body": "My favorite commit message words are:\n\n1. * (used 1986 times)\n2. [ci (used 1556 times)\n3. skip] (used 1556 times)\n4. new (used 1421 times)\n5. en.json (used 1369 times)",
+    "desc": "My favorite word is \"[ci\".",
+    "body": "My favorite commit message words are:\n\n1. [ci (used 1556 times)\n2. skip] (used 1556 times)\n3. new (used 1421 times)\n4. en.json (used 1369 times)\n5. translations (used 1287 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -115,7 +115,7 @@
     "id": "stars-100",
     "tier": 1,
     "desc": "I collected 100 stars.",
-    "body": "Repos:\n\n* <a href=\"https://github.com/GeoGuess/GeoGuess\">GeoGuess/GeoGuess: ★414</a>\n* <a href=\"https://github.com/RemDelaporteMathurin/epidemic-simulator\">RemDelaporteMathurin/epidemic-simulator: ★31</a>\n* <a href=\"https://github.com/CouscousPHP/GitHub-Action\">CouscousPHP/GitHub-Action: ★11</a>\n* <a href=\"https://github.com/BilelJegham/epidemic-simulator-front\">BilelJegham/epidemic-simulator-front: ★4</a>\n* <a href=\"https://github.com/BilelJegham/randomPositionInPolygon\">BilelJegham/randomPositionInPolygon: ★4</a>\n* <a href=\"https://github.com/BilelJegham/BilelJegham\">BilelJegham/BilelJegham: ★2</a>\n* <a href=\"https://github.com/BilelJegham/action-couscous\">BilelJegham/action-couscous: ★1</a>\n* <a href=\"https://github.com/BilelJegham/api-sport-cli\">BilelJegham/api-sport-cli: ★1</a>\n* <a href=\"https://github.com/BilelJegham/metamorphe\">BilelJegham/metamorphe: ★1</a>\n\n<sup>I have push, maintainer or admin permissions, so I'm definitely an author.<sup>\n",
+    "body": "Repos:\n\n* <a href=\"https://github.com/GeoGuess/GeoGuess\">GeoGuess/GeoGuess: ★415</a>\n* <a href=\"https://github.com/RemDelaporteMathurin/epidemic-simulator\">RemDelaporteMathurin/epidemic-simulator: ★31</a>\n* <a href=\"https://github.com/CouscousPHP/GitHub-Action\">CouscousPHP/GitHub-Action: ★11</a>\n* <a href=\"https://github.com/BilelJegham/epidemic-simulator-front\">BilelJegham/epidemic-simulator-front: ★4</a>\n* <a href=\"https://github.com/BilelJegham/randomPositionInPolygon\">BilelJegham/randomPositionInPolygon: ★4</a>\n* <a href=\"https://github.com/BilelJegham/BilelJegham\">BilelJegham/BilelJegham: ★2</a>\n* <a href=\"https://github.com/BilelJegham/action-couscous\">BilelJegham/action-couscous: ★1</a>\n* <a href=\"https://github.com/BilelJegham/api-sport-cli\">BilelJegham/api-sport-cli: ★1</a>\n* <a href=\"https://github.com/BilelJegham/metamorphe\">BilelJegham/metamorphe: ★1</a>\n\n<sup>I have push, maintainer or admin permissions, so I'm definitely an author.<sup>\n",
     "image": "https://my-badges.github.io/my-badges/stars-100.png"
   },
   {
