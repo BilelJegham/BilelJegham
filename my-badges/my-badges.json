@@ -59,7 +59,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"[ci\".",
-    "body": "My favorite commit message words are:\n\n1. [ci (used 1556 times)\n2. skip] (used 1556 times)\n3. new (used 1421 times)\n4. en.json (used 1369 times)\n5. translations (used 1287 times)",
+    "body": "My favorite commit message words are:\n\n1. [ci (used 1558 times)\n2. skip] (used 1558 times)\n3. new (used 1422 times)\n4. en.json (used 1370 times)\n5. translations (used 1288 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -129,7 +129,7 @@
     "id": "this-is-fine",
     "tier": 0,
     "desc": "I merged a PR with failing checks",
-    "body": "Pull requests:\n\n- <a href=\"https://github.com/GeoGuess/GeoGuess-Maps/pull/41\">#41</a>: New Crowdin updates\n- <a href=\"https://github.com/GeoGuess/GeoGuess-Maps/pull/42\">#42</a>: feat: add map\n- <a href=\"https://github.com/GeoGuess/GeoGuess-Maps/pull/43\">#43</a>: New Crowdin updates\n- <a href=\"https://github.com/GeoGuess/GeoGuess-Maps/pull/44\">#44</a>: New Crowdin updates",
+    "body": "Pull requests:\n\n- <a href=\"https://github.com/GeoGuess/GeoGuess-Maps/pull/41\">#41</a>: New Crowdin updates\n- <a href=\"https://github.com/GeoGuess/GeoGuess-Maps/pull/42\">#42</a>: feat: add map\n- <a href=\"https://github.com/GeoGuess/GeoGuess-Maps/pull/43\">#43</a>: New Crowdin updates\n- <a href=\"https://github.com/GeoGuess/GeoGuess-Maps/pull/44\">#44</a>: New Crowdin updates\n- <a href=\"https://github.com/GeoGuess/GeoGuess-Maps/pull/45\">#45</a>: New Crowdin updates",
     "image": "https://my-badges.github.io/my-badges/this-is-fine.png"
   },
   {
@@ -143,7 +143,7 @@
     "id": "evening-commits",
     "tier": 0,
     "desc": "I commit in the evening.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/GeoGuess/GeoGuess/commit/54ad3784158992f56e01a54ef19a22e1bea9f7ab\">54ad378</a>\n- <a href=\"https://github.com/GeoGuess/demo/commit/20a3866f6b09b70e7b55114d69fe6ab50c0ef0ea\">20a3866</a>\n- <a href=\"https://github.com/GeoGuess/GeoGuess/commit/bebc158938d6d4adff322d4c9677107ebcc0ef99\">bebc158</a>\n- <a href=\"https://github.com/GeoGuess/GeoGuess/commit/9a8b8c468450963b288131bd9066816be8d087a5\">9a8b8c4</a>\n- <a href=\"https://github.com/GeoGuess/GeoGuess/commit/7ae34f186eeed50959b9af6eaebb86a44d7a36c5\">7ae34f1</a>\n- <a href=\"https://github.com/GeoGuess/GeoGuess/commit/c13ed3332e694c7fe217747fdff0f91040a98720\">c13ed33</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/GeoGuess/GeoGuess/commit/db5664997ad08923d74168f355de1cf7e2c6eaa3\">db56649</a>\n- <a href=\"https://github.com/GeoGuess/GeoGuess/commit/54ad3784158992f56e01a54ef19a22e1bea9f7ab\">54ad378</a>\n- <a href=\"https://github.com/GeoGuess/demo/commit/20a3866f6b09b70e7b55114d69fe6ab50c0ef0ea\">20a3866</a>\n- <a href=\"https://github.com/GeoGuess/GeoGuess/commit/bebc158938d6d4adff322d4c9677107ebcc0ef99\">bebc158</a>\n- <a href=\"https://github.com/GeoGuess/GeoGuess/commit/9a8b8c468450963b288131bd9066816be8d087a5\">9a8b8c4</a>\n- <a href=\"https://github.com/GeoGuess/GeoGuess/commit/7ae34f186eeed50959b9af6eaebb86a44d7a36c5\">7ae34f1</a>",
     "image": "https://my-badges.github.io/my-badges/evening-commits.png"
   },
   {
