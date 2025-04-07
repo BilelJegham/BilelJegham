@@ -10,7 +10,6 @@ Pull requests:
 - <a href="https://github.com/GeoGuess/GeoGuess-Maps/pull/44">#44</a>: New Crowdin updates
 - <a href="https://github.com/GeoGuess/GeoGuess-Maps/pull/45">#45</a>: New Crowdin updates
 - <a href="https://github.com/GeoGuess/GeoGuess-Maps/pull/47">#47</a>: New Crowdin updates
-- <a href="https://github.com/ChouquetteCorp/beerbet/pull/15">#15</a>: Release 1.1.0
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
