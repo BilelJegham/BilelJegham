@@ -28,6 +28,7 @@
 <a href="my-badges/friday-13.md"><img src="https://my-badges.github.io/my-badges/friday-13.png" alt="I committed on Friday the 13th, One… By One…" title="I committed on Friday the 13th, One… By One…" width="64"></a>
 <a href="my-badges/winter-solstice-commits.md"><img src="https://my-badges.github.io/my-badges/winter-solstice-commits.png" alt="I commit in the Winter solstice." title="I commit in the Winter solstice." width="64"></a>
 <a href="my-badges/public-keys-2.md"><img src="https://my-badges.github.io/my-badges/public-keys-2.png" alt="I have two public keys" title="I have two public keys" width="64"></a>
+<a href="my-badges/programmers-day.md"><img src="https://my-badges.github.io/my-badges/programmers-day.png" alt="Happy Programmers Day! I committed on a 256 Day of Year!" title="Happy Programmers Day! I committed on a 256 Day of Year!" width="64"></a>
 <!-- my-badges end -->
 
 ### Hi there 👋
