@@ -4,7 +4,6 @@
 
 Pull requests:
 
-- <a href="https://github.com/GeoGuess/GeoGuess-Maps/pull/44">#44</a>: New Crowdin updates
 - <a href="https://github.com/GeoGuess/GeoGuess-Maps/pull/45">#45</a>: New Crowdin updates
 - <a href="https://github.com/GeoGuess/GeoGuess-Maps/pull/47">#47</a>: New Crowdin updates
 - <a href="https://github.com/GeoGuess/GeoGuess-Maps/pull/48">#48</a>: New Crowdin updates
