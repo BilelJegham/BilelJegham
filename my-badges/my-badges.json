@@ -208,5 +208,19 @@
     "desc": "I have three public keys",
     "body": "",
     "image": "https://my-badges.github.io/my-badges/public-keys-3.png"
+  },
+  {
+    "id": "old-issue-1",
+    "tier": 1,
+    "desc": "I closed an issue that was open for a year",
+    "body": "Issues:\n\n- <a href=\"https://github.com/GeoGuess/GeoGuess/issues/53\">#53</a>: Improve homepage : image quality, animation, fonts, colors, etc.",
+    "image": "https://my-badges.github.io/my-badges/old-issue-1.png"
+  },
+  {
+    "id": "old-issue-2",
+    "tier": 2,
+    "desc": "I closed an issue that was open for 2 years",
+    "body": "Issues:\n\n- <a href=\"https://github.com/GeoGuess/GeoGuess/issues/308\">#308</a>: [PERF] Firebase 9",
+    "image": "https://my-badges.github.io/my-badges/old-issue-2.png"
   }
 ]
