@@ -222,5 +222,12 @@
     "desc": "I closed an issue that was open for 2 years",
     "body": "Issues:\n\n- <a href=\"https://github.com/GeoGuess/GeoGuess/issues/308\">#308</a>: [PERF] Firebase 9",
     "image": "https://my-badges.github.io/my-badges/old-issue-2.png"
+  },
+  {
+    "id": "pi-day",
+    "tier": 0,
+    "desc": "Happy March 14th! I committed on a Pi Day!",
+    "body": "Commits:\n\n- <a href=\"https://github.com/GeoGuess/demo/commit/15edf7c307cbfa751d014ca733195e9d380768af\">15edf7c</a>\n- <a href=\"https://github.com/GeoGuess/GeoGuess/commit/15edf7c307cbfa751d014ca733195e9d380768af\">15edf7c</a>\n- <a href=\"https://github.com/GeoGuess/demo/commit/dbf7d107870c58b3f5a3b594f63420b69743d5a0\">dbf7d10</a>\n- <a href=\"https://github.com/GeoGuess/GeoGuess/commit/dbf7d107870c58b3f5a3b594f63420b69743d5a0\">dbf7d10</a>\n- <a href=\"https://github.com/GeoGuess/demo/commit/4d1096f0b185ea2d06a7353e576c4ececed5ae51\">4d1096f</a>\n- <a href=\"https://github.com/GeoGuess/GeoGuess/commit/4d1096f0b185ea2d06a7353e576c4ececed5ae51\">4d1096f</a>",
+    "image": "https://my-badges.github.io/my-badges/pi-day.png"
   }
 ]
