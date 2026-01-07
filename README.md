@@ -32,6 +32,7 @@
 <a href="my-badges/old-issue-1.md"><img src="https://my-badges.github.io/my-badges/old-issue-1.png" alt="I closed an issue that was open for a year" title="I closed an issue that was open for a year" width="64"></a>
 <a href="my-badges/old-issue-2.md"><img src="https://my-badges.github.io/my-badges/old-issue-2.png" alt="I closed an issue that was open for 2 years" title="I closed an issue that was open for 2 years" width="64"></a>
 <a href="my-badges/pi-day.md"><img src="https://my-badges.github.io/my-badges/pi-day.png" alt="Happy March 14th! I committed on a Pi Day!" title="Happy March 14th! I committed on a Pi Day!" width="64"></a>
+<a href="my-badges/st-patricks-day.md"><img src="https://my-badges.github.io/my-badges/st-patricks-day.png" alt="I committed on St. Patrick&apos;s Day!" title="I committed on St. Patrick&apos;s Day!" width="64"></a>
 <!-- my-badges end -->
 
 ### Hi there 👋
