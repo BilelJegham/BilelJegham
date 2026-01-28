@@ -8,6 +8,7 @@ Pull requests:
 - <a href="https://github.com/GeoGuess/GeoGuess-Maps/pull/47">#47</a>: New Crowdin updates
 - <a href="https://github.com/GeoGuess/GeoGuess-Maps/pull/48">#48</a>: New Crowdin updates
 - <a href="https://github.com/GeoGuess/GeoGuess-Maps/pull/49">#49</a>: chore: bump github ci
+- <a href="https://github.com/GeoGuess/GeoGuess-Maps/pull/51">#51</a>: New Crowdin updates
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
