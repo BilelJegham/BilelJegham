@@ -23,23 +23,12 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.PERSONAL_GITHUB_TOKEN }}
       
-      - name: Update My Badges
-        run: |
-          echo "<details>" >> README.md
-          echo "<summary>🏆 Badges</summary>" >> README.md
-          echo "<\!-- my-badges start -->" >> README.md
-          echo "<\!-- my-badges end -->" >> README.md
-          echo "</details>" >> README.md
-          npx update-my-badges ${{github.repository_owner}}
+      - uses: stefanzweifel/git-auto-commit-action@v4
         env:
-          GITHUB_TOKEN: ${{ secrets.PERSONAL_GITHUB_TOKEN }}
-
-      # - uses: stefanzweifel/git-auto-commit-action@v4
-      #   env:
-      #     GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      #   with:
-      #     commit_message: Update generated README
-      #     branch: main
-      #     commit_user_name: readme-scribe 🤖
-      #     commit_user_email: actions@github.com
-      #     commit_author: readme-scribe 🤖 <actions@github.com>
+           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+           commit_message: Update generated README
+           branch: main
+           commit_user_name: readme-scribe 🤖
+           commit_user_email: actions@github.com
+           commit_author: readme-scribe 🤖 <actions@github.com>
